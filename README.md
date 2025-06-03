@@ -1,4 +1,4 @@
-# backend
+# hello-pod
 
 This app should display the name of the pod and of the node.
 
